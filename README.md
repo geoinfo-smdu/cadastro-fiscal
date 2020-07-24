@@ -12,7 +12,7 @@ Para isso vamos utilizar a linguagem de programação Python e utilizar a biblio
 
 ## Download da Tabela de IPTU
 
-A [Tabela de IPTU de 2019 está disponível nesse link](mapas.geosampa.prodam/PaginasPublicas/downloadIfr.aspx?orig=DownloadCamadas&arq=11_Cadastro%5C%5CIPTU%5C%5CXLS_CSV%5C%5CIPTU2019&arqTipo=XLS_CSV), é disponibilizada em formato CSV e é disponibilizada em um arquivo ZIP.
+A [Tabela de IPTU de 2019 está disponível nesse link](http://geosampa.prefeitura.sp.gov.br/PaginasPublicas/downloadIfr.aspx?orig=DownloadCamadas&arq=12_Cadastro%5C%5CIPTU%5C%5CXLS_CSV%5C%5CIPTU_2020&arqTipo=XLS_CSV), é disponibilizada em formato CSV e é disponibilizada em um arquivo ZIP.
 
 Vamos expandir o arquivo ZIP na pasta Downloads e carregar o arquivo na memória com o Pandas
 
