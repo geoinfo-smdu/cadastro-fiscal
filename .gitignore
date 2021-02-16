@@ -1,1 +1,3 @@
-downloads/
+downloads/*
+IPTU/*
+resultados/*.gpkg
