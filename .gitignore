@@ -1,4 +1,5 @@
 downloads/*
 IPTU/*
 resultados/*.gpkg
+resultados/*.csv
 lotes/*
